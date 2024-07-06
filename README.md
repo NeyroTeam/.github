@@ -1,8 +1,8 @@
 # Welcome to NeyroTeam
 
-<div style="display: flex; flex-direction:row; align-items:center;">
-  <img src="https://neyrogen.online/assets/logo.png" alt="NeyroTeam Logo" width="200">
-  <p style="margin-left: 20px;">NeyroTeam is a dedicated group of developers and AI enthusiasts working on practical applications of AI technology. We focus on creating useful tools that integrate AI capabilities into everyday platforms, with a particular emphasis on Discord bot development.</p>
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <img src="https://neyrogen.online/assets/logo.png" alt="NeyroTeam Logo" width="150">
+  <p style="max-width: 600px; margin-top: 20px;">NeyroTeam is a dedicated group of developers and AI enthusiasts working on practical applications of AI technology. We focus on creating useful tools that integrate AI capabilities into everyday platforms, with a particular emphasis on Discord bot development.</p>
 </div>
 
 ## Our Approach
